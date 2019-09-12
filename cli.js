@@ -31,3 +31,8 @@ function envelopePrompts() {
 
     return prompts(questions)
 }
+console.log(envelopePrompts.name)
+    // function filterEnvelopes(age, sex) {
+
+//     return data
+// }
